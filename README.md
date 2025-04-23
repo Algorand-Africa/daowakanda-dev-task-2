@@ -1,6 +1,6 @@
 # Daowakanda Dev Task
 
-This dev task requires you to call the 'buyListing' method of an existing smart contract with Application ID '2948568810' using the Application Spec in `src/client.ts`; Successfully calling this smart contract method will make you receive an asset.
+This dev task requires you to call the `buyListing` method of an existing smart contract with Application ID `2948568810` using the Application Spec in `src/client.ts`; Successfully calling this smart contract method will make you receive an asset.
 For reference, see this example: https://github.com/Algorand-Africa/peer-coding-session-2/blob/main/client/src/index.ts
 
 To compile and run, run this command: `npm run development`
